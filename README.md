@@ -68,7 +68,24 @@ Note: The actual subnet, number of hosts and addresses should be replaced with t
 ## Whatweb
 
 <p align="center">
-  <img src="whatweb Pen.png"
+  <img src="whatweb pen.png"
       alt="Whatweb"
       width="800">
 </p>
+
+
+## 👤 Author
+
+---
+
+Irabor Richard Ehis
+
+Cybersecurity Internship B083
+
+LinkedIn: https://www.linkedin.com/in/richard-ehis-irabor-46b8899b/
+
+---
+
+## 📌 Project Information
+
+Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
