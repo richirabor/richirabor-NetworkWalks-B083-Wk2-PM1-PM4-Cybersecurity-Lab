@@ -88,4 +88,4 @@ LinkedIn: https://www.linkedin.com/in/richard-ehis-irabor-46b8899b/
 
 ## 📌 Project Information
 
-Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
