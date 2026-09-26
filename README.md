@@ -60,7 +60,15 @@ Note: The actual subnet, number of hosts and addresses should be replaced with t
 ## Whois 
 
 <p align="center">
-  <img src="https://github.com/richirabor/NetworkWalks-B083-Wk1-PM1-Cybersecurity-Lab-SETUP/blob/main/Virtual_Box%20setting-%20Kali%20Linux%20Network.png"
-      alt="Kali Linux Setup"
+  <img src="Whois Pen.png"
+      alt="Whois"
+      width="800">
+</p>
+
+## Whatweb
+
+<p align="center">
+  <img src="whatweb Pen.png"
+      alt="Whatweb"
       width="800">
 </p>
